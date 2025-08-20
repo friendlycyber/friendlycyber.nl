@@ -1,0 +1,5 @@
+Expires: 2026-01-01T00:00:00.000Z
+Canonical: https://friendly-cyber.nl/.well-known/security.txt
+
+Contact: mailto:info@friendlycyber.nl
+Preferred-Languages: nl, en
